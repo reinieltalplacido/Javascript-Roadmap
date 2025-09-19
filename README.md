@@ -1,8 +1,8 @@
 # 🚀 JavaScript 6-Month Roadmap
 *A complete beginner-to-developer journey in JavaScript*
 
-![GitHub stars](https://img.shields.io/github/stars/reinieltalplacido/js-roadmap?style=social)](https://github.com/reinieltalplacido/js-roadmap)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/reinieltalplacido/js-roadmap/issues)
+![GitHub stars](https://img.shields.io/github/stars/reinieltalplacido/js-roadmap?style=social)](https://github.com/reinieltalplacido/Javascript-Roadmap)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/reinieltalplacido/Javascript-Roadmap/issues)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=reinieltalplacido.js-roadmap)
 
 > Transform from a complete beginner to a job-ready JavaScript developer in 6 months with this structured, project-based roadmap.

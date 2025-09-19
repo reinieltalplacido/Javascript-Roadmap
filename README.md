@@ -3,7 +3,6 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/reinieltalplacido/Javascript-Roadmap?style=social)](https://github.com/reinieltalplacido/Javascript-Roadmap)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/reinieltalplacido/Javascript-Roadmap/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=reinieltalplacido.Javascript-Roadmap)
 
 > Transform from a complete beginner to a job-ready JavaScript developer in 6 months with this structured, project-based roadmap.

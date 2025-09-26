@@ -294,7 +294,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 **⭐ If this roadmap helped you, please give it a star! ⭐**
 
-Made by [Reiniel](https://github.com/reiniel)
+Made by [Reiniel](https://github.com/reinieltalplacido)
 
 *Happy coding! 🚀*
 
